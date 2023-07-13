@@ -11,7 +11,7 @@ python app.py
 
 - insert the name of the city and n nearest stations count
 
-  <img src="test.png" alt="logo" title="city name inserting" width="100" height="50">
+  <img src="test.png" alt="logo" title="city name inserting" width="1000" height="500">
 
 - then click on index.html 
 
