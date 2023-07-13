@@ -3,10 +3,10 @@ A python code to plot the time-series of yearly mean of snowdepth for stations a
 
 ## How to run
 
-- simply run the following 
-'''python 
+- simply run the following
+```python 
 python app.py
-'''
+```
 - open the server which is shown after running 1, something like : http://127.0.0.1:8000
 
 - insert the name of the city and n nearest stations count 
