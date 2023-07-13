@@ -11,7 +11,7 @@ python app.py
 
 - insert the name of the city and n nearest stations count 
 
-- then go to the tempelates and click on index.html 
+- then click on index.html 
 
 
 
