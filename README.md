@@ -1,4 +1,4 @@
-# plot_snow_depth_of_stations_around_the_world
+# plot snow depth of stations around the world
 A python code to plot the time-series of yearly mean of snowdepth for stations around the world 
 
 ## How to run
@@ -16,6 +16,8 @@ python app.py
 - then click on index.html
 
 <img src="test.png" alt="logo" title="city name inserting" width="1000" height="500">
+
+
 
 
 
