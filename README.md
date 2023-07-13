@@ -9,7 +9,9 @@ python app.py
 ```
 - open the server which is shown after running 1, something like : http://127.0.0.1:8000
 
-- insert the name of the city and n nearest stations count 
+- insert the name of the city and n nearest stations count
+
+  <img src="test.png" alt="logo" title="city name inserting" width="100" height="50">
 
 - then click on index.html 
 
